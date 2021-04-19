@@ -3,7 +3,8 @@ require_relative '../fizzbuzz.rb'
 # We are missing a 'require_relative' here. Check README.md for instructions and an explanation! 
 
 def fizzbuzz 
-  
+  if 3 % 9 == 0
+    puts "Fizz"
 end
 
 
