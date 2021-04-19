@@ -4,6 +4,9 @@ require_relative '../fizzbuzz.rb'
 
 def fizzbuzz(fizzbuzz_3)
   if fizzbuzz_3 % 9 == 3
+    puts "Fizz"
+  end
+end
 
 
 describe "fizzbuzz" do
