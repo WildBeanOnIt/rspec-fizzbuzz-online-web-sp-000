@@ -6,6 +6,7 @@ def fizzbuzz(x)
   if 3 % 9 == 3
     puts "Fizz"
   end
+end
 
 describe "fizzbuzz" do
   it 'returns "Fizz" when the number is divisible by 3' do
