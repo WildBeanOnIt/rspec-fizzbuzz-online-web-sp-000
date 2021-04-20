@@ -5,7 +5,5 @@
 def fizzbuzz(x)
   if x % 3 == 0
     return "Fizz"
-else
-  x % 5 == 0
-    return "Buz"
   end
+end
