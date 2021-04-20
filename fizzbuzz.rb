@@ -12,7 +12,7 @@ def fizzbuzz(x)
   elsif x % 3 == 0
     return "Fizz"
     
-  elsif x % 8 == 0
+  elsif x % 4 == 0
     return "Nil"
     end
   end
