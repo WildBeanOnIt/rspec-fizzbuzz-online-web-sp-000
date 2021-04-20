@@ -2,7 +2,7 @@
 # See README.md for instructions on how to do this
 
 
-def fizzbuzz(15)
+def fizzbuzz(8)
   if x % 3 == 0 && x % 5 == 0 
     return "FizzBuss"
     
