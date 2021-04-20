@@ -11,5 +11,8 @@ def fizzbuzz(8)
     
   elsif x % 3 == 0
     return "Fizz"
+    
+  elsif x % 8 == 0
+    return "Nil"
     end
   end
