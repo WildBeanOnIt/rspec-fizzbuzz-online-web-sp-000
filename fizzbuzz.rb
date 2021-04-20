@@ -4,6 +4,6 @@
 
 def fizzbuzz(x)
   if x % 3 == 0
-    returns "Fizz"
+    return "Fizz"
 else
   end
