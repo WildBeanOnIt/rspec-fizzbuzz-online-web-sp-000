@@ -2,7 +2,7 @@
 # See README.md for instructions on how to do this
 
 
-def fizzbuzz(x)
+def fizzbuzz(15)
   if x % 3 == 0
     return "Fizz"
   elsif x % 5 == 0
